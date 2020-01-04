@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "root",
+    "password": "abcDEF12",
+    "database": "world",
+    "jwtSecret": "secret"
+}
